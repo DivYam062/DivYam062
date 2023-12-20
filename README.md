@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyam Singh Rauthan</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" alt="image">
+<img width="450px" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" alt="image">
 
 - 🌱 I’m currently learning **React.js**
 
