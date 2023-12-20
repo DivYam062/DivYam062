@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **divyamrauthan002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1eyn7_4ZmWC_jLydpK14AruuzbbI57W4C?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1eyn7_4ZmWC_jLydpK14AruuzbbI57W4C)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
