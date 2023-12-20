@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyam Singh Rauthan</h1>
+<h3 align="center">A passionate full-stack developer from India.</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F725&random=false&width=435&lines=Full-Stack+Developer;MERN+Stack+Developer;Nice+to+meet+you........" alt="Typing SVG" /></a>
-<h3 align="center">A passionate frontend developer from India.</h3>
 <img width="450px" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" alt="image">
 
 - 🌱 I’m currently learning **React.js**
