@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyam-rauthan-593030217/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/divyam-rauthan-593030217/" height="40" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/divyam.rauthan/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqnn6t7jjI7kvNxH0xbWvwTi081tsqsDIEzA&usqp=CAU" alt="https://www.facebook.com/divyam.rauthan/" height="40" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/divyam_rauthan/" target="blank"><img align="center" src="https://www.shutterstock.com/shutterstock/videos/1106031201/thumb/6.jpg?ip=x480" alt="https://www.instagram.com/divyam_rauthan/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyam-rauthan-593030217/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Divyam-Singh-Rauthan" height="40" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/divyam.rauthan/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqnn6t7jjI7kvNxH0xbWvwTi081tsqsDIEzA&usqp=CAU" alt="Divyam-Singh-Rauthan" height="40" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/divyam_rauthan/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xx5W1Cgc6xhZWVOU6c7xcQovFUuJLZGPnw&usqp=CAU" alt="Divyam-Singh-Rauthan" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
