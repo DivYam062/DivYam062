@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Yodc3R_PdfPxjIgUX3Dvr2xtixe_ukKd/view?usp=sharing)
 
+- Portfolio [https://DivYam062.github.io](https://DivYam062.github.io)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divyam-rauthan-593030217/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Divyam-Singh-Rauthan" height="40" width="40" /></a>
