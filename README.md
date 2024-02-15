@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **divyamrauthan002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15-plzy51v_10TsJfYcqGnuG6lUC4rAsJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11Z-Xykb9CXgll29WA4HJa-n6GLq6B8e6/view?usp=sharing)
 
 - Portfolio [https://DivYam062.github.io](https://DivYam062.github.io)
 
