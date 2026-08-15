@@ -89,17 +89,3 @@
     <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>
   </a>
 </p>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyam062&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyam062&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=divyam062&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
