@@ -34,15 +34,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/divyamrauthan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/DivYam062" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/divyamrauthan/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/> </a> &nbsp; <a href="https://github.com/DivYam062" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/> </a> &nbsp; <a href="mailto:divyamrauthan002@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/> </a> </p>
 
 ---
 
